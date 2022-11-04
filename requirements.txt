@@ -1,0 +1,8 @@
+fuzzywuzzy==0.18.0
+pandas==1.5.1
+pdfminer.six==20220524
+plotly==5.11.0
+streamlit==1.14.0
+streamlit-aggrid==0.3.3
+
+
