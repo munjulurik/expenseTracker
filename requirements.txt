@@ -4,5 +4,6 @@ pdfminer.six==20220524
 plotly==5.11.0
 streamlit==1.14.0
 streamlit-aggrid==0.3.3
+streamlit_extras==0.2.4
 
 
